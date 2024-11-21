@@ -1,0 +1,24 @@
+Garuda;Soekarno-Hatta;Sultan Hasanuddin;1550000
+Lion Air;Ngurah Rai;Kuala Namu;1020000;180
+Citilink;Sultan Hasanuddin;Ngurah Rai;1150000;160
+Sriwijaya;Kuala Namu;Soekarno-Hatta;1200000;130
+Batik Air;Juanda;Ngurah Rai;1100000;170
+AirAsia;Soekarno-Hatta;Ngurah Rai;1450000;150
+Garuda;Ngurah Rai;Juanda;1200000;150
+Lion Air;Kuala Namu;Juanda;980000;180
+Citilink;Soekarno-Hatta;Kuala Namu;1300000;160
+Sriwijaya;Ngurah Rai;Sultan Hasanuddin;1250000;130
+Batik Air;Soekarno-Hatta;Kuala Namu;1400000;170
+AirAsia;Juanda;Ngurah Rai;1050000;150
+Garuda;Juanda;Soekarno-Hatta;1000000;150
+Lion Air;Sultan Hasanuddin;Soekarno-Hatta;980000;180
+Citilink;Kuala Namu;Ngurah Rai;1400000;160
+Sriwijaya;Soekarno-Hatta;Juanda;1100000;130
+Batik Air;Ngurah Rai;Sultan Hasanuddin;1150000;170
+AirAsia;Ngurah Rai;Soekarno-Hatta;1400000;150
+Garuda;Kuala Namu;Sultan Hasanuddin;1200000;150
+Lion Air;Juanda;Soekarno-Hatta;900000;180
+Citilink;Ngurah Rai;Kuala Namu;1250000;160
+Sriwijaya;Sultan Hasanuddin;Juanda;1150000;130
+Batik Air;Ngurah Rai;Juanda;1200000;170
+AirAsia;Sultan Hasanuddin;Kuala Namu;1050000;150

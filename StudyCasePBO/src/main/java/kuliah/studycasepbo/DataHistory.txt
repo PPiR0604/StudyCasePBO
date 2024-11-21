@@ -1,0 +1,39 @@
+Ajel;Penginapan;4725000;1 hari;Skyline Villa
+Ajel;Penginapan;0;0 hari;Villa Serenity
+Ajel;Pesawat;8137500;Soekarno-Hatta→Sultan Hasanuddin
+Ajel;Pesawat;8137500;Soekarno-Hatta→Sultan Hasanuddin
+PPir;Pesawat;1365000;Soekarno-Hatta→Kuala Namu
+PPir;Penginapan;6300000;1 hari;Villa Serenity
+Ajel;Travel;367500;Jakarta→Malang
+Ajel;Penginapan;0;0 hari;Villa Serenity
+Ajel;Penginapan;26460000;2 hari;Lakeside Villa
+Ajel;Travel;1470000;Jakarta→Malang
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Pesawat;1627500;Soekarno-Hatta→Sultan Hasanuddin
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Bus;315000;Jakarta→Surabaya
+Ajel;Travel;1942500;Jakarta→Malang
+Ajel;Travel;2100000;Jakarta→Blitar
+Ajel;Penginapan;8400000;1 hari;Ocean View Villa
+Ajel;Penginapan;12600000;1 hari;Ocean View Villa
+Ajel;Penginapan;12600000;1 hari;Ocean View Villa
+Ajel;Penginapan;4200000;1 hari;Ocean View Villa
+Ajel;Penginapan;22050000;1 hari;Villa Serenity
+Ajel;Penginapan;3150000;1 hari;Villa Serenity
+Ajel;Penginapan;88200000;4 hari;Villa Serenity
+Ajel;Penginapan;3360000;4 hari;Backpacker Hostel
+Ajel;Penginapan;4200000;4 hari;Backpacker Hostel
+Ajel;Penginapan;4200000;4 hari;Backpacker Hostel
+Ajel;Bus;2520000;Jakarta→Surabaya
+Ajel;Penginapan;2520000;4 hari;Backpacker Hostel
+Ajel;Pesawat;16275000;Soekarno-Hatta→Sultan Hasanuddin
+Ajel;Pesawat;16275000;Soekarno-Hatta→Sultan Hasanuddin
+Ajel;Pesawat;6510000;Soekarno-Hatta→Sultan Hasanuddin
+Ajel;Pesawat;6510000;Soekarno-Hatta→Sultan Hasanuddin

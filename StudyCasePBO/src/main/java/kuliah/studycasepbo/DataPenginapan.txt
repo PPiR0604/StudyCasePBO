@@ -1,0 +1,50 @@
+Villa;Villa Serenity;20;3000000 
+Hotel;Grand Hotel;100;1500000
+Hostel;Backpacker Hostel;20;200000;10/06/2024 5 03/06/2024 3 08/06/2024 5 09/06/2024 5 02/06/2024 3 05/06/2024 3 06/06/2024 8 07/06/2024 5 04/06/2024 3 
+GuestHouse;Cozy Guest House;10;500000
+Homestay;Family Homestay;8;400000
+Villa;Ocean View Villa;6;4000000
+Hotel;Royal Palace Hotel;150;2000000
+Hostel;City Explorer Hostel;25;250000
+GuestHouse;Riverside Guest House;12;600000
+Homestay;Modern Homestay;15;350000
+Villa;Paradise Retreat;8;5000000
+Hotel;Sunset Beach Hotel;200;1800000
+Hostel;Urban Nomad Hostel;30;300000
+GuestHouse;Garden View Guest House;15;700000
+Homestay;Traditional Homestay;5;450000
+Villa;Skyline Villa;10;4500000
+Hotel;Mountain Lodge Hotel;120;1700000
+Hostel;Surfside Hostel;18;180000
+GuestHouse;Hilltop Guest House;8;550000
+Homestay;Rustic Homestay;6;500000
+Villa;Lakeside Villa;9;4200000
+Hotel;Valley Resort Hotel;180;1900000
+Hostel;Backpacker's Haven;22;220000
+GuestHouse;Serene Guest House;9;650000
+Homestay;Seaside Homestay;7;550000
+Villa;Luxury Escape Villa;14;6000000
+Hotel;Central Plaza Hotel;160;2100000
+Hostel;Artisan Hostel;27;270000
+GuestHouse;Vineyard Guest House;11;750000
+Homestay;Comfort Homestay;8;600000
+Villa;Beachfront Villa;16;7000000
+Hotel;Tranquil Resort;140;2200000
+Hostel;Adventure Hostel;32;320000
+GuestHouse;Nature Retreat Guest House;13;800000
+Homestay;Serenity Homestay;9;700000
+Villa;Cliffside Villa;18;8000000
+Hotel;Riverside Hotel;170;2300000
+Hostel;Wanderlust Hostel;35;350000
+GuestHouse;Tranquility Guest House;14;850000
+Homestay;Tropical Homestay;10;800000
+Villa;Mountain View Villa;20;9000000
+Hotel;Harbor View Hotel;190;2400000
+Hostel;Nomad's Rest Hostel;38;380000
+GuestHouse;Blissful Guest House;16;900000
+Homestay;Ocean Breeze Homestay;12;850000
+Villa;Paradise Cove Villa;24;10000000
+Hotel;Island Resort Hotel;200;2500000
+Hostel;Explorer's Lodge;40;400000
+GuestHouse;Peaceful Retreat Guest House;17;950000
+Homestay;Zen Homestay;14;900000

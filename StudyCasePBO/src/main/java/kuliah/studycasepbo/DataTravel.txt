@@ -1,0 +1,36 @@
+Travel Jaya;Jakarta;Malang;350000;0
+Surya Travel;Jakarta;Blitar;400000;5;02/06/2024 5 
+Purnama Travel;Jakarta;Surabaya;450000;10
+Sinar Pagi Travel;Malang;Jakarta;350000;5
+Mega Travel;Malang;Blitar;150000;5
+Kencana Travel;Malang;Surabaya;200000;10
+Blitar Sejahtera;Blitar;Jakarta;400000;5
+Bintang Timur;Blitar;Malang;150000;8
+Mitra Travel;Blitar;Surabaya;200000;5
+Surabaya Raya Travel;Surabaya;Jakarta;450000;10
+Cahaya Travel;Surabaya;Malang;200000;5
+Surabaya Express;Surabaya;Blitar;200000;8
+Tranz Travel;Jakarta;Malang;370000;7;03/06/2024 5 
+Mandiri Travel;Jakarta;Blitar;420000;10
+Cepat Jaya;Jakarta;Surabaya;460000;8
+Amanah Travel;Malang;Jakarta;360000;5
+Mulia Travel;Malang;Blitar;160000;10
+Gemilang Travel;Malang;Surabaya;210000;10
+Bintang Sejahtera;Blitar;Jakarta;410000;8
+Lintas Timur;Blitar;Malang;160000;5
+Sukses Travel;Blitar;Surabaya;210000;7
+Surabaya Sentosa;Surabaya;Jakarta;460000;10
+Sejahtera Travel;Surabaya;Malang;210000;8
+Express Travel;Surabaya;Blitar;210000;7
+Prima Jaya;Jakarta;Malang;380000;10
+Raja Travel;Jakarta;Blitar;430000;10
+Cepat Abadi;Jakarta;Surabaya;470000;10
+Jaya Sentosa;Malang;Jakarta;370000;5
+Utama Travel;Malang;Blitar;170000;8
+Cahaya Timur;Malang;Surabaya;220000;10
+Gema Sejahtera;Blitar;Jakarta;420000;12
+Mitra Timur;Blitar;Malang;170000;10
+Lancar Travel;Blitar;Surabaya;220000;8
+Surabaya Merdeka;Surabaya;Jakarta;470000;5
+Harmoni Travel;Surabaya;Malang;220000;7
+Surabaya Cepat;Surabaya;Blitar;220000;5
