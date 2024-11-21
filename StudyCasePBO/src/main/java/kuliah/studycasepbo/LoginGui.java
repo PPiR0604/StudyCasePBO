@@ -160,9 +160,6 @@ public class LoginGui extends javax.swing.JFrame {
         new HomeGui(this, akun);
         this.setVisible(false);
     }
-    public static void main(String args[]) {
-        SwingUtilities.invokeLater(() -> new LoginGui());
-    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
